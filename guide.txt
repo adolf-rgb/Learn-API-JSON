@@ -1,0 +1,11 @@
+XX_module_b/
+├── app.js
+├── package.json
+├── database.sql
+├── expert_readme.txt
+├── /views
+│   ├── login.html
+│   ├── dashboard.html
+│   └── verify.html
+├── /public
+└── /uploads
