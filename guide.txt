@@ -9,3 +9,6 @@ XX_module_b/
 │   └── verify.html
 ├── /public
 └── /uploads
+
+Put it in any normal folder (like Documents or Desktop)
+
